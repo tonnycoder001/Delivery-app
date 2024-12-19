@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBmA_3npqXiHs-UbvhQhQX07fV-SRu2W2Q',
+    apiKey: '',
     appId: '1:701075550988:web:51e1f57a6e19d42f32cf29',
     messagingSenderId: '701075550988',
     projectId: 'delivery-64a7d',
@@ -83,5 +83,4 @@ class DefaultFirebaseOptions {
     authDomain: 'delivery-64a7d.firebaseapp.com',
     storageBucket: 'delivery-64a7d.firebasestorage.app',
   );
-
 }
